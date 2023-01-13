@@ -1,0 +1,15 @@
+.course-k-container {
+  display: flex;
+  width: 1200px;
+  justify-content: center;
+  align-items: center;
+}
+.course-image {
+  width: 400px;
+}
+.desc-container {
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  margin: 10px;
+}
